@@ -1,5 +1,5 @@
 # portfolio
-Selected projects that showcase my research, engineering, and finance skills.
+Selected projects that showcase my research and development skills.
 
 ## Index
 - Gaussian process regression (machine learning, python)
